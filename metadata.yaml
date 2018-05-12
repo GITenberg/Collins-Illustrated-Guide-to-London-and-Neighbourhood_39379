@@ -1,0 +1,31 @@
+_repo: Collins-Illustrated-Guide-to-London-and-Neighbourhood_39379
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39379-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2012-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Guidebooks'
+- !lcc 'DA'
+title: "Collins' Illustrated Guide to London and Neighbourhood\r\nBeing a Concise\
+  \ Description of the Chief Places of Interest in the Metropolis, and the Best Modes\
+  \ of Obtaining Access to Them: with Information Relating to Railways, Omnibuses,\
+  \ Steamers, &c."
+url: http://www.gutenberg.org/ebooks/39379
